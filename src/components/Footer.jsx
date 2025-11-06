@@ -15,7 +15,7 @@ const Footer = () => {
           <div className="text-white/60">Links</div>
           <ul className="mt-2 space-y-1">
             <li><a className="hover:text-fuchsia-400 transition" href="#releases">Releases</a></li>
-            <li><a className="hover:text-fuchsia-400 transition" href="https://www.beatport.com/" target="_blank" rel="noreferrer">Beatport</a></li>
+            <li><a className="hover:text-fuchsia-400 transition" href="https://www.beatport.com/it/label/nascinay-records/125033" target="_blank" rel="noreferrer">Beatport</a></li>
             <li><a className="hover:text-fuchsia-400 transition" href="mailto:info@nascinay.records">Contact</a></li>
           </ul>
         </div>

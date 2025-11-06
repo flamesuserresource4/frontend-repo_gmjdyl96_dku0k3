@@ -46,7 +46,7 @@ const Hero = () => {
               Explore Releases
             </a>
             <a
-              href="https://www.beatport.com/"
+              href="https://www.beatport.com/it/label/nascinay-records/125033"
               target="_blank"
               rel="noreferrer"
               className="inline-flex items-center rounded-md bg-white/10 hover:bg-white/20 text-white px-5 py-3 font-semibold transition"

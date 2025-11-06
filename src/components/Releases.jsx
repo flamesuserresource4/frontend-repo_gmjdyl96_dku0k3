@@ -7,7 +7,7 @@ const releasesData = [
     title: 'Obsidian Cathedral',
     artist: 'Various Artists',
     cover: 'https://images.unsplash.com/photo-1558980664-10c236ca2cc9?q=80&w=1200&auto=format&fit=crop',
-    beatport: 'https://www.beatport.com/',
+    beatport: 'https://www.beatport.com/it/label/nascinay-records/125033',
     tags: ['industrial', 'hard techno'],
   },
   {
@@ -15,7 +15,7 @@ const releasesData = [
     title: 'Night Steeple',
     artist: 'Nyx Hunter',
     cover: 'https://images.unsplash.com/photo-1516280030429-27679b3dc9cf?q=80&w=1200&auto=format&fit=crop',
-    beatport: 'https://www.beatport.com/',
+    beatport: 'https://www.beatport.com/it/label/nascinay-records/125033',
     tags: ['raw', 'rave'],
   },
   {
@@ -23,7 +23,7 @@ const releasesData = [
     title: 'Violet Sigil',
     artist: 'Aether Knight',
     cover: 'https://images.unsplash.com/photo-1526312426976-593c128c1c83?q=80&w=1200&auto=format&fit=crop',
-    beatport: 'https://www.beatport.com/',
+    beatport: 'https://www.beatport.com/it/label/nascinay-records/125033',
     tags: ['hypnotic', 'peak-time'],
   },
   {
@@ -31,7 +31,7 @@ const releasesData = [
     title: 'Grimoire Sparks',
     artist: 'Lamia & COAL',
     cover: 'https://images.unsplash.com/photo-1517818277536-f5f99be501cd?q=80&w=1200&auto=format&fit=crop',
-    beatport: 'https://www.beatport.com/',
+    beatport: 'https://www.beatport.com/it/label/nascinay-records/125033',
     tags: ['warehouse', 'acid'],
   },
 ];
